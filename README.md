@@ -9,7 +9,7 @@ otra deficiones pueden ser:
   - la nube esta formada de servidores en centros de datos en todo el mundo. Transladarse a la nube puede ahorrar dinero a las empresas y ser un factor de comodidad para los usuarios.
   - "La nube" hace referencia a los servidores a los que se accede a través de internet, y al software y bases de datos que se ejecutan en esos servidores.
 
-# ¿Cuáles son los principales modelos de servicio de la computación en nube?
+## ¿Cuáles son los principales modelos de servicio de la computación en nube?
 
   * Software como servicio (SaaS): en lugar de que los usuarios instalen una aplicación en su dispositivo, las aplicaciones de SaaS se alojan en servidores en la nube y los usuarios pueden acceder a ellas a través de Internet. El SaaS es como alquilar una casa: el arrendador sigue siendo el propietario de la casa, pero el arrendatario tiene derecho a usarla como si fuera suya. Ejemplos de aplicaciones de SaaS incluyen Salesforce, MailChimp y Slack.
 
@@ -25,7 +25,7 @@ Las aplicaciones sin servidor o FaaS se siguen ejecutando en servidores, como to
 
 Además, las funciones sin servidor aumentan o se duplican, según más usuarios usen la aplicación. ¡Imagínate que el comedor del arrendatario se pudiera expandir a la carta cuando hubiera visita! Más información sobre cómo funciona la computación sin servidor (FaaS).
 
-# ¿Cuáles son los diferentes tipos de implementación en nube?
+## ¿Cuáles son los diferentes tipos de implementación en nube?
 
   - Nube privada: una nube privada es un servidor, centro de datos o red distribuida que está al servicio de una única organización.
   - Nube pública: una nube pública es un servicio gestionado por un proveedor externo que puede incluir servidores en uno o varios centros de datos. A diferencia de una nube privada, las nubes públicas las comparten muchas organizaciones. Con el uso de máquinas virtuales, diferentes empresas pueden compartir los servidores individuales, una situación que se conoce como "tenencia múltiple", ya que varios arrendatarios alquilan espacio en el servidor dentro del mismo servidor.
@@ -39,7 +39,7 @@ es un conjunto integral de servidores en la nube que los desarrolladores y los p
 
 otra definición es: Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft.
 
-  ## ¿cómo funciona? 
+ ## ¿cómo funciona? 
   
 En el portal Microsoft Azure existen diferentes servicios de infraestructura y de plataforma para que puedas “montar” los servicios que necesites de manera sencilla, con unos cuántos clics. En tu portal dispones de un botón [New +] y a partir de ahí, sólo tienes que elegir la región de los datacenter donde estará tu servicio y, a continuación, el tipo de servicio con sus características.
 
