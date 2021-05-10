@@ -33,7 +33,22 @@ Además, las funciones sin servidor aumentan o se duplican, según más usuarios
   - Multinube: la multinube es un tipo de implementación en la nube que implica el uso de varias nubes públicas. En otras palabras, una organización con una implementación de multinube alquila servidores y servicios virtuales de varios proveedores externos; para continuar con la anterior analogía, esto sería como alquilar varias parcelas adyacentes de diferentes propietarios. Las implementaciones de multinube también pueden ser una nube híbrida y viceversa.
 
 # Azure
-  #¿Qué es Azure?
+  ¿Qué es Azure?
   
 es un conjunto integral de servidores en la nube que los desarrolladores y los profesionales de TI utilizan para crear, implementar y administrar aplicaciones a través de nuestra red global de centros de datos.
 
+otra definición es: Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft.
+
+  ## ¿cómo funciona? 
+  
+En el portal Microsoft Azure existen diferentes servicios de infraestructura y de plataforma para que puedas “montar” los servicios que necesites de manera sencilla, con unos cuántos clics. En tu portal dispones de un botón [New +] y a partir de ahí, sólo tienes que elegir la región de los datacenter donde estará tu servicio y, a continuación, el tipo de servicio con sus características.
+
+Entre los servicios, dispones de infraestructuras (IaaS: almacenamiento, redes, máquinas virtuales…) y plataformas (PaaS: bases de datos de alta disponibilidad SQL, CMS para desarrollo de web, backend para aplicaciones móviles…). Son compatibles con todo tipo de tecnología: bases de datos Oracle, Linux, php, iOs, My SQL, Android, php…
+
+Estos servicios están garantizados con una disponibilidad del 99.99%, y en caso de fallo en disponibilidad superior, Microsoft se compromete a indemnizar por los daños. Además, cuenta con todas las certificaciones en materia seguridad y protección de datos. ¿Sabías que es la primera plataforma cloud que cumple en categoría alta las características de la certificación de conformidad del Esquema Nacional de Seguridad?
+
+Esta potente solución empresarial para la gestión de tus infraestructuras y aplicaciones presenta grandes ventajas: destacamos la flexibilidad y el pago por uso. Con Azure ya no es necesaria la inversión en máquinas físicas y el mantenimiento que conllevan. De esta manera, se simplifica el despliegue ya que no hay que comprometerse con largos periodos de amortización, se agiliza el proceso de configuración y nos permite adaptar nuestros sistemas a nuestras necesidades en pocos minutos, con total flexibilidad. Además, dispone de herramientas para poder monitorizar el rendimiento y así predecir si es necesario escalar o no nuestras máquinas, y en consecuencia, pagar por lo que realmente necesitas. Por este motivo, distinguimos tres situaciones en las que, sin duda, recomendamos utilizar los servicios de Azure:
+
+  * En el despliegue de una solución en la que el incremento de uso va a ser exponencial (o desconocido) y no podemos definir con garantías el pico de demanda máximo.
+  * Cuando sabes que la demanda del servicio va a fluctuar en el tiempo.
+  * En entornos de desarrollo o pruebas que posteriormente podrían seguirse utilizando o no, o que pueden “apagarse” puntualmente y después volverse a activar.
